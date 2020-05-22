@@ -1,4 +1,4 @@
-class DayToString
+class DateTime
     def wday_to_string(number)
         day = ""
         case number
